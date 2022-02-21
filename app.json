@@ -1,18 +1,16 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "craon-proxy",
+    "description": "Deploy",
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "ad806416-2d26-4636-98b6-ab85cc8521e6"
         },
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/smarttsx/v2ray-heroku",
+    "repository": "https://github.com/smarttsx/craon-proxy",
     "stack": "container"
 }
